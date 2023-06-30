@@ -16,11 +16,15 @@ fun main(){
     val lastWord = "Academy"
     print(firstWord+lastWord)
 //======================================================================
-    //Char (contoh menggunakan increment/decrement)
-
-
-
-
+    //Char (contoh menggunakan increment'++'/decrement'--')
+    var vocal = 'A'
+    println("Vocal "+vocal++) //Increment
+    println("Vocal "+vocal++)
+    println("Vocal "+vocal++)
+    println("Vocal "+vocal--) //Decrement
+    println("Vocal "+vocal--)
+    println("Vocal "+vocal--)
+    println("Vocal "+vocal--)
 //======================================================================
 
 
